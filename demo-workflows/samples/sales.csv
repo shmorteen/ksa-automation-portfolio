@@ -1,0 +1,11 @@
+order_id,period,channel,revenue_usd
+A01,sample_week_a,Website,110
+A02,sample_week_a,Referral,325
+A03,sample_week_a,Website,175
+A04,sample_week_a,Marketplace,145
+A05,sample_week_a,Referral,210
+A06,sample_week_a,Website,95
+B01,sample_week_b,Website,115
+B02,sample_week_b,Referral,190
+B03,sample_week_b,Website,75
+B04,sample_week_b,Marketplace,120

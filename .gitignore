@@ -1,0 +1,17 @@
+# Local tools and temporary files
+.netlify/
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+credentials.json
+secrets.json
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
